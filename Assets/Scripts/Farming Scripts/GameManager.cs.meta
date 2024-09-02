@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 073478b257d0cd04e8f2c4904fe40669
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - landPrefab: {instanceID: 0}
+  - fieldPrefab: {instanceID: 0}
+  - cropPrefab: {instanceID: 0}
+  - placeButton: {instanceID: 0}
+  - buyFieldButton: {instanceID: 0}
+  - highlightMAT: {instanceID: 0}
+  - land: {instanceID: 0}
+  - indicatorPlane: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
